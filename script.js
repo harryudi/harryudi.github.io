@@ -53,7 +53,7 @@ ScrollReveal().reveal('.home-content h1, .about-img', { origin:
 
 /*==================== typed js ====================*/
 const typed = new Typed('.multiple-text', {
-    strings: ['Frontend Developer', 'Web Designer', 'WordPress Developer'],
+    strings: ['Frontend Developer', 'MERN STACK Developer', 'React Developer', 'Express Developer', 'React.js Developer', 'Node.Js Developer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
